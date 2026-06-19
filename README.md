@@ -6,6 +6,7 @@ Firefox extension that adds a toolbar button for switching tabs between horizont
 
 - Firefox 136 or newer
 - Vertical tabs support available in Firefox
+- No user data is collected or transmitted.
 
 ## Languages
 
@@ -37,5 +38,7 @@ Firefox Release and Beta require Mozilla-signed extensions. To install this exte
 - an unlisted/self-distributed add-on.
 
 After Mozilla signs it, install the signed XPI returned by AMO.
+
+After the first successful AMO signing, keep the `browser_specific_settings.gecko.id` value unchanged. Firefox uses it to recognize future updates of the same add-on.
 
 Advanced testing alternatives are Firefox Developer Edition, Nightly, or ESR with `xpinstall.signatures.required` set to `false` in `about:config`.

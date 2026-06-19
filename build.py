@@ -8,7 +8,7 @@ DIST_DIR = ROOT_DIR / "dist"
 PACKAGE_PATH = DIST_DIR / "vertical-tabs-button-unsigned.xpi"
 PACKAGE_FILES = (
     "manifest.json",
-    "background.js",
+    "vertical_tabs_button.js",
     "vertical_tabs_off.svg",
     "vertical_tabs_on.svg",
 )

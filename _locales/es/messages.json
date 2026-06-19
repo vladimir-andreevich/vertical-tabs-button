@@ -1,0 +1,11 @@
+{
+  "extension_description": {
+    "message": "Bot\u00f3n de la barra de herramientas para alternar las pesta\u00f1as verticales de Firefox."
+  },
+  "enable_vertical_tabs": {
+    "message": "Activar pesta\u00f1as verticales"
+  },
+  "disable_vertical_tabs": {
+    "message": "Desactivar pesta\u00f1as verticales"
+  }
+}

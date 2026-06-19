@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Vertical Tabs Button",
+  "version": "0.0.1",
+  "default_locale": "en",
+  "description": "__MSG_extension_description__",
+  "permissions": [
+    "browserSettings"
+  ],
+  "browser_action": {
+    "default_icon": "vertical_tabs_off.svg",
+    "default_title": "__MSG_enable_vertical_tabs__"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "vertical-tabs-button@example.local",
+      "strict_min_version": "136.0"
+    }
+  }
+}

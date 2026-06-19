@@ -1,0 +1,11 @@
+{
+  "extension_description": {
+    "message": "Przycisk paska narz\u0119dzi do prze\u0142\u0105czania pionowych kart Firefoksa."
+  },
+  "enable_vertical_tabs": {
+    "message": "W\u0142\u0105cz pionowe karty"
+  },
+  "disable_vertical_tabs": {
+    "message": "Wy\u0142\u0105cz pionowe karty"
+  }
+}

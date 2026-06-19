@@ -1,0 +1,11 @@
+{
+  "extension_description": {
+    "message": "Symbolleistenschaltfl\u00e4che zum Umschalten vertikaler Firefox-Tabs."
+  },
+  "enable_vertical_tabs": {
+    "message": "Vertikale Tabs aktivieren"
+  },
+  "disable_vertical_tabs": {
+    "message": "Vertikale Tabs deaktivieren"
+  }
+}

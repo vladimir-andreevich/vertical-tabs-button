@@ -1,0 +1,11 @@
+{
+  "extension_description": {
+    "message": "Toolbar button for toggling Firefox vertical tabs."
+  },
+  "enable_vertical_tabs": {
+    "message": "Enable vertical tabs"
+  },
+  "disable_vertical_tabs": {
+    "message": "Disable vertical tabs"
+  }
+}

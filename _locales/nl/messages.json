@@ -1,0 +1,11 @@
+{
+  "extension_description": {
+    "message": "Werkbalkknop om verticale tabbladen in Firefox te wisselen."
+  },
+  "enable_vertical_tabs": {
+    "message": "Verticale tabbladen inschakelen"
+  },
+  "disable_vertical_tabs": {
+    "message": "Verticale tabbladen uitschakelen"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extension_description": {
+    "message": "Bouton de barre d'outils pour basculer les onglets verticaux de Firefox."
+  },
+  "enable_vertical_tabs": {
+    "message": "Activer les onglets verticaux"
+  },
+  "disable_vertical_tabs": {
+    "message": "D\u00e9sactiver les onglets verticaux"
+  }
+}

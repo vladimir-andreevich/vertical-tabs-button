@@ -1,0 +1,11 @@
+{
+  "extension_description": {
+    "message": "\u7528\u4e8e\u5207\u6362 Firefox \u5782\u76f4\u6807\u7b7e\u9875\u7684\u5de5\u5177\u680f\u6309\u94ae\u3002"
+  },
+  "enable_vertical_tabs": {
+    "message": "\u542f\u7528\u5782\u76f4\u6807\u7b7e\u9875"
+  },
+  "disable_vertical_tabs": {
+    "message": "\u7981\u7528\u5782\u76f4\u6807\u7b7e\u9875"
+  }
+}
